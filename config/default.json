@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Felix:Sweatcorn8@cluster0.41pqf.mongodb.net/Lduh?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Felix:Sweatcorn8@cluster0.41pqf.mongodb.net/Lduh?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
